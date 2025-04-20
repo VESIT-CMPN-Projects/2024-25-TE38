@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 version: "3"
 services:
   frontend:
@@ -15,3 +16,22 @@ services:
       - "8000:8000"
     environment:
       - NODE_ENV=production
+=======
+version: "3"
+services:
+  frontend:
+    build: ./apps/web
+    ports:
+      - "80:3000"
+    environment:
+      - NODE_ENV=production
+    depends_on:
+      - backend
+
+  backend:
+    build: ./apps/server
+    ports:
+      - "8000:8000"
+    environment:
+      - NODE_ENV=production
+>>>>>>> 600a4c5ee3b950d2593ef030aa330cbd6c0c9bb3

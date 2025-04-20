@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "$schema": "https://turbo.build/schema.json",
   "ui": "tui",
@@ -16,3 +17,23 @@
     }
   }
 }
+=======
+{
+  "$schema": "https://turbo.build/schema.json",
+  "ui": "tui",
+  "tasks": {
+    "build": {
+      "dependsOn": ["^build"],
+      "inputs": ["$TURBO_DEFAULT$", ".env*"],
+      "outputs": [".next/**", "!.next/cache/**"]
+    },
+    "lint": {
+      "dependsOn": ["^lint"]
+    },
+    "dev": {
+      "cache": false,
+      "persistent": true
+    }
+  }
+}
+>>>>>>> 600a4c5ee3b950d2593ef030aa330cbd6c0c9bb3

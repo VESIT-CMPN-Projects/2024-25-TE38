@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "name": "placenext",
   "private": true,
@@ -30,3 +31,37 @@
     "tailwind-merge": "^3.0.2"
   }
 }
+=======
+{
+  "name": "placenext",
+  "private": true,
+  "scripts": {
+    "build": "turbo build",
+    "dev": "turbo dev",
+    "lint": "turbo lint",
+    "format": "prettier --write \"**/*.{ts,tsx,md}\""
+  },
+  "devDependencies": {
+    "prettier": "^3.2.5",
+    "turbo": "^2.0.11",
+    "typescript": "^5.4.5"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "packageManager": "npm@10.7.0",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "dependencies": {
+    "@radix-ui/react-select": "^2.1.6",
+    "class-variance-authority": "^0.7.1",
+    "csv-parser": "^3.2.0",
+    "lucide-react": "^0.476.0",
+    "multer": "^1.4.5-lts.1",
+    "pptxgenjs": "^3.12.0",
+    "tailwind-merge": "^3.0.2"
+  }
+}
+>>>>>>> 600a4c5ee3b950d2593ef030aa330cbd6c0c9bb3
