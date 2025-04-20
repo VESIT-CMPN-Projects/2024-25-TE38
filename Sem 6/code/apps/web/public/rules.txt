@@ -1,0 +1,95 @@
+Placement Process:
+- Prepare for coding, aptitude, and soft skills.
+- Resume should be well-structured and project-focused.
+- Eligibility: No active backlogs, minimum CGPA 7.0.
+- Interview rounds: Aptitude, Technical, HR.
+- Dress professionally for interviews.
+- Eligibility of Jpmc : CGPA 9
+
+- Eligibility of Nomura : CGPA 8
+-  Detailed Rules for the Placement Process  
+
+ 1️⃣ General Preparation  
+✅ Technical Preparation:  
+   - Strengthen DSA (Data Structures & Algorithms), OOP concepts, databases (SQL, NoSQL), OS, CN, and system design.  
+   - Practice coding on platforms like Leetcode, CodeChef, Codeforces, and GeeksforGeeks.  
+   - Focus on projects that demonstrate practical application of skills.  
+
+✅ Aptitude Preparation:  
+   - Practice quantitative aptitude, logical reasoning, and verbal ability (RS Aggarwal, Arun Sharma).  
+   - Time management is crucial in the aptitude test.  
+
+✅ Soft Skills & Communication:  
+   - Develop good spoken English and fluency in explaining concepts.  
+   - Practice HR interview questions (strengths, weaknesses, leadership experience, projects, etc.).  
+
+✅ Resume Guidelines:  
+   - Keep it one page, project-focused, and to the point.  
+   - Highlight internships, certifications, skills, and achievements.  
+   - No spelling/grammar mistakes.  
+
+---
+
+ 2️⃣ Placement Eligibility Criteria  
+✅ Academic Requirements:  
+   - No active backlogs (Ensure all subjects are cleared before placement season).  
+   - Minimum CGPA of 7.0 for most companies.  
+   - Higher CGPA required for top companies:
+     - JPMC: CGPA 9.0  
+     - Nomura: CGPA 8.0  
+   - Consistency in 10th, 12th, and degree scores (some companies have a 60% or 70% cutoff).  
+
+✅ Attendance & Conduct:  
+   - Must have minimum required attendance (as per college rules).  
+   - No disciplinary actions or misconduct records.  
+
+✅ Bond & Service Agreement:  
+   - Some companies require signing a service bond (Check company-specific policies).  
+
+---
+
+ 3️⃣ Interview Process & Guidelines  
+✅ Rounds of Interviews:  
+   - Aptitude Test (MCQs on quant, logic, English, and technical questions).  
+   - Coding Round (Online test with 1–3 problems of varying difficulty).  
+   - Group Discussion (GD) (only for some companies).  
+   - Technical Interview (DSA, DBMS, OOPs, OS, CN, projects, system design).  
+   - HR Interview (Behavioral, leadership, salary expectations, relocation).  
+
+✅ Dressing & Presentation:  
+   - Wear formal attire for interviews (shirt, trousers, tie for men; formal top and pants for women).  
+   - Maintain good posture, eye contact, and confidence.  
+
+✅ Communication & Etiquette:  
+   - Greet interviewers professionally.  
+   - Answer clearly; avoid one-word responses.  
+   - If unsure of an answer, express your thought process instead of staying silent.  
+
+---
+
+ 4️⃣ Placement Policies & Restrictions  
+✅ Number of Offers:  
+   - Some colleges allow only one job offer per student (unless mass recruiters).  
+   - Once placed, you may not be allowed to sit for other companies.  
+
+✅ Company-Specific Tests:  
+   - Some companies have sectional cutoffs (clearing all sections is necessary).  
+   - Some allow multiple attempts for their online tests.  
+
+✅ Internship to Full-Time Conversion:  
+   - Internships may lead to PPO (Pre-Placement Offer) based on performance.  
+
+---
+
+ 5️⃣ Post-Placement Requirements  
+✅ Onboarding Process:  
+   - Submit required documents (mark sheets, PAN card, Aadhaar, etc.).  
+   - Complete pre-joining training if required by the company.  
+
+✅ Company-Specific Policies:  
+   - Some companies conduct background verification (ensure no false information).  
+   - Some may delay joining due to business conditions.  
+
+✅ Plan for Higher Studies:  
+   - If planning for higher studies (MS/MBA), check company policies on further education sponsorship.  
+
